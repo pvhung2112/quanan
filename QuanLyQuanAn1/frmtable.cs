@@ -43,13 +43,14 @@ namespace QuanLyQuanAn1
         private void adminToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmdoanhthu frmdoanhthu = new frmdoanhthu();
-            frmdoanhthu.Show();
+            frmdoanhthu.Show() ;
         }
 
         private void thứcĂnToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmthucan frmthucan = new frmthucan();
             frmthucan.Show();
+
         }
 
         private void tàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
