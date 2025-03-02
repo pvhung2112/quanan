@@ -31,7 +31,7 @@ namespace QuanLyQuanAn1
         {
             frmaccount frmaccount = new frmaccount();
             Hide();
-            frmaccount.Show();
+            frmaccount.ShowDialog();
             Show();
            
         }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuanLyQuanAn1.DAO;
 
 namespace QuanLyQuanAn1
 {
@@ -32,13 +33,24 @@ namespace QuanLyQuanAn1
                 );
             if (kt == DialogResult.No) e.Cancel = true;
         }
-
+        bool login(string username , string password)
+        {
+           return Account.Singleton.login(username, password);
+        }
         private void btndangnhap_Click(object sender, EventArgs e)
         {
-            frmtable frmtable = new frmtable();
-            this.Hide();
-            frmtable.ShowDialog();
-            this.Show();
+            string user = txttendangnhap.Text;
+            string pass = txtpassword.Text;
+
+            if (login(user , pass))
+            {
+                frmtable frmtable = new frmtable();
+                this.Hide();
+                frmtable.ShowDialog();
+                this.Show();
+            }
+            else
+                MessageBox.Show("Bạn nhập sai rồi!");
             
         }
     }

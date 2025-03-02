@@ -1,0 +1,16 @@
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
