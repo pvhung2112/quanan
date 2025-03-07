@@ -13,7 +13,7 @@ namespace QuanLyQuanAn1
    
     public partial class frmthucan : Form
     {
-        
+        ketnoi db = new ketnoi();
         public frmthucan()
         {
             InitializeComponent();
@@ -26,7 +26,8 @@ namespace QuanLyQuanAn1
 
         private void frmthucan_Load(object sender, EventArgs e)
         {
-           
+           DataTable dt = db.dsquanan("select * from  FoodCetagory");
+            dataviewthucdon.DataSource = dt;
         }
     }
 }

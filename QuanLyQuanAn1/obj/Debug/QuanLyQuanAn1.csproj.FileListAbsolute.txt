@@ -47,21 +47,3 @@ E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompi
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
-D:\QuanLyQuanAn\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdangky.resources
