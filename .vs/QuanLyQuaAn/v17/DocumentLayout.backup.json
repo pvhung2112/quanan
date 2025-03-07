@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\winform\\New folder (2)\\",
+  "WorkspaceRootPath": "E:\\winform\\New folder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|e:\\winform\\new folder (2)\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|e:\\winform\\new folder\\quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder (2)\\quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,10 +63,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -81,63 +77,65 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmthucan.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmthucan.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmthucan.cs",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:25:19.498Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "xuathoadon.cs [Design]",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\xuathoadon.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\xuathoadon.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\xuathoadon.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn1\\xuathoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:04:32.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmthucan.cs [Design]",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmthucan.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmthucan.cs [Design]",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs [Design]",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs [Design]*",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T03:51:05.1Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "xuathoadon.cs [Design]",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\xuathoadon.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanAn1\\xuathoadon.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\xuathoadon.cs [Design]",
-              "RelativeToolTip": "QuanLyQuanAn1\\xuathoadon.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmthucan.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs*",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T06:04:32.783Z"
+              "WhenOpened": "2025-03-07T04:25:19.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmtable.cs [Design]",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmtable.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmtable.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmtable.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmtable.cs [Design]",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmtable.cs [Design]",
               "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:24:48.27Z"
+              "WhenOpened": "2025-03-06T04:24:48.27Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ketnoi.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\ketnoi.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\ketnoi.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\ketnoi.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\ketnoi.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\ketnoi.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\ketnoi.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,23 +143,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "xuathoadon.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\xuathoadon.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\xuathoadon.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\xuathoadon.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\xuathoadon.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\xuathoadon.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\xuathoadon.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T06:26:08.923Z"
+              "WhenOpened": "2025-03-07T06:26:08.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "frmlogin.cs [Design]",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmlogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmlogin.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmlogin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:25:37.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmaccount.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmaccount.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmaccount.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmaccount.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmaccount.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmaccount.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\frmaccount.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,43 +181,33 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmtable.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmtable.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmtable.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmtable.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmtable.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmtable.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAWwFAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:24:50.288Z"
+              "WhenOpened": "2025-03-06T04:24:50.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmaccount.cs [Design]",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmaccount.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmaccount.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmaccount.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmaccount.cs [Design]",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmaccount.cs [Design]",
               "RelativeToolTip": "QuanLyQuanAn1\\frmaccount.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T03:48:35.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmlogin.cs [Design]",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmlogin.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmlogin.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmlogin.cs [Design]",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmlogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:25:37.657Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "frmlogin.cs",
-              "DocumentMoniker": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmlogin.cs",
+              "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmlogin.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmlogin.cs",
-              "ToolTip": "E:\\winform\\New folder (2)\\QuanLyQuanAn1\\frmlogin.cs",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmlogin.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\frmlogin.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAWwDUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

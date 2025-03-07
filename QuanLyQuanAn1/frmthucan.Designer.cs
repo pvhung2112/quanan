@@ -141,7 +141,7 @@
             this.grthucdon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.grthucdon.Controls.Add(this.dataviewthucdon);
             this.grthucdon.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.grthucdon.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grthucdon.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grthucdon.Location = new System.Drawing.Point(3, 100);
             this.grthucdon.Name = "grthucdon";
             this.grthucdon.Size = new System.Drawing.Size(609, 466);
@@ -293,7 +293,7 @@
             // 
             this.cbdanhmuc.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.cbdanhmuc.FormattingEnabled = true;
-            this.cbdanhmuc.Location = new System.Drawing.Point(94, 300);
+            this.cbdanhmuc.Location = new System.Drawing.Point(94, 292);
             this.cbdanhmuc.Name = "cbdanhmuc";
             this.cbdanhmuc.Size = new System.Drawing.Size(321, 39);
             this.cbdanhmuc.TabIndex = 7;

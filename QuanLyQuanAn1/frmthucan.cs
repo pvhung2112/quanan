@@ -26,8 +26,11 @@ namespace QuanLyQuanAn1
 
         private void frmthucan_Load(object sender, EventArgs e)
         {
-           DataTable dt = db.dsquanan("select * from  FoodCetagory");
+           DataTable dt = db.dsquanan("select * from Food,FoodCetagory where Food.idCategory = FoodCetagory.id;");
             dataviewthucdon.DataSource = dt;
+            dataviewthucdon.Columns[0].Visible = false;
+            dataviewthucdon.Columns[2].Visible = false;
+            dataviewthucdon.Columns[4].Visible = false;
         }
     }
 }
