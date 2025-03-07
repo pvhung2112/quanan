@@ -27,5 +27,10 @@ namespace QuanLyQuanAn1
             ////DataProvider provider = new DataProvider();
             //dataacc.DataSource = DataProvider.Singleton.ExeCuteQuery(query , new object[] {"QuyDuong"} );
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

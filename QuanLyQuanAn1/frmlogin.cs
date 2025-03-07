@@ -59,5 +59,11 @@ namespace QuanLyQuanAn1
         {
 
         }
+
+        private void btndangki_Click(object sender, EventArgs e)
+        {
+            frmdangky frmdangky = new frmdangky();
+            frmdangky.Show();
+        }
     }
 }
