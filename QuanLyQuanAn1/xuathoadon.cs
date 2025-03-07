@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace QuanLyQuanAn1
 {
-    public partial class frmaccount : Form
+    public partial class xuathoadon: Form
     {
-        public frmaccount()
+        public xuathoadon()
         {
             InitializeComponent();
         }
 
-        private void btnthoat_Click(object sender, EventArgs e)
+        private void xuathoadon_Load(object sender, EventArgs e)
         {
-            Close();
+
         }
 
-        private void frmaccount_Load(object sender, EventArgs e)
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
 
         }

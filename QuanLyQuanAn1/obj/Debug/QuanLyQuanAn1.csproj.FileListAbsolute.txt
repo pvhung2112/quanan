@@ -14,3 +14,36 @@ D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resourc
 D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
 D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
 D:\Winforms\QuanLyQuaAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+D:\Users\PhungVanduy\CodeDuAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+E:\winform\New folder (2)\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+E:\winform\New folder (2)\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+E:\winform\New folder (2)\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources

@@ -64,5 +64,76 @@ namespace QuanLyQuanAn1
             frmdanhmuc frmdanhmuc = new frmdanhmuc();
             frmdanhmuc.Show();
         }
+
+        private void lsvthucdon_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnThanhtoan_Click(object sender, EventArgs e)
+        {
+            xuathoadon f = new xuathoadon();
+            f.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btndoiban_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnthem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void cmbmon_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void frmtable_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

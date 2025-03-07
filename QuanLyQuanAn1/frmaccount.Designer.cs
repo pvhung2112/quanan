@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lbltendangnhap = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lbltendangnhap = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.lbltenhienthi = new System.Windows.Forms.Label();
@@ -52,6 +52,14 @@
             this.panel1.Size = new System.Drawing.Size(547, 49);
             this.panel1.TabIndex = 0;
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(141, 10);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(237, 25);
+            this.textBox1.TabIndex = 1;
+            // 
             // lbltendangnhap
             // 
             this.lbltendangnhap.AutoSize = true;
@@ -60,14 +68,6 @@
             this.lbltendangnhap.Size = new System.Drawing.Size(98, 17);
             this.lbltendangnhap.TabIndex = 0;
             this.lbltendangnhap.Text = "Tên đăng nhập:";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(141, 10);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(237, 25);
-            this.textBox1.TabIndex = 1;
             // 
             // panel2
             // 
@@ -146,6 +146,7 @@
             this.Name = "frmaccount";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Thông tin";
+            this.Load += new System.EventHandler(this.frmaccount_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

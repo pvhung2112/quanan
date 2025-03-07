@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using QuanLyQuanAn1.DAO;
 
+
 namespace QuanLyQuanAn1
 {
     public partial class frmlogin : Form
@@ -23,6 +24,7 @@ namespace QuanLyQuanAn1
             Application.Exit();
         }
 
+        // tinh nang thoat . 
         private void frmlogin_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult kt = MessageBox.Show(
@@ -37,21 +39,25 @@ namespace QuanLyQuanAn1
         {
            return Account.Singleton.login(username, password);
         }
+
+
         private void btndangnhap_Click(object sender, EventArgs e)
         {
             string user = txttendangnhap.Text;
             string pass = txtpassword.Text;
 
-            if (login(user , pass))
-            {
+           
                 frmtable frmtable = new frmtable();
                 this.Hide();
                 frmtable.ShowDialog();
                 this.Show();
-            }
-            else
-                MessageBox.Show("Bạn nhập sai rồi!");
-            
+           
+        
+        }
+
+        private void frmlogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
