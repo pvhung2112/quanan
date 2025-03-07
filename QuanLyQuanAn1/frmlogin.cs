@@ -35,10 +35,7 @@ namespace QuanLyQuanAn1
                 );
             if (kt == DialogResult.No) e.Cancel = true;
         }
-        bool login(string username , string password)
-        {
-           return Account.Singleton.login(username, password);
-        }
+        
 
 
         private void btndangnhap_Click(object sender, EventArgs e)
@@ -46,11 +43,17 @@ namespace QuanLyQuanAn1
             string user = txttendangnhap.Text;
             string pass = txtpassword.Text;
 
-           
+            if(Account.Instance.login(user, pass)){
                 frmtable frmtable = new frmtable();
                 this.Hide();
                 frmtable.ShowDialog();
                 this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Mật khẩu hoặc Tên tài khoản không hợp lệ!");
+            }
+                
            
         
         }

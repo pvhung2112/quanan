@@ -10,17 +10,18 @@ namespace QuanLyQuanAn1.DAO
 {
     internal class DataProvider
     {
-        private static DataProvider singleton;
+        private static DataProvider instance;
        
 
-        internal static DataProvider Singleton {
+        internal static DataProvider Instance
+        {
 
             get
             {
-                if(singleton == null) singleton = new DataProvider();
-                return singleton;
+                if(instance == null) instance = new DataProvider();
+                return instance;
             }
-           private set => singleton = value; 
+           private set => instance = value; 
         }
         private DataProvider() { }
         DataTable datatable = new DataTable();
@@ -58,6 +59,7 @@ namespace QuanLyQuanAn1.DAO
         public int ExeCuteNon(string query, object[] parameter = null)
         {
             int data = 0;// trả  ra số dòng thành công
+            // dùng cho insert , update , xóa
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 

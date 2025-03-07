@@ -9,26 +9,26 @@ namespace QuanLyQuanAn1.DAO
 {
     internal class Account
     {
-        private static Account singleton;
+        private static Account instance;
 
-        internal static Account Singleton
+        internal static Account Instance
         {
             get
             {
-                if (singleton == null) singleton = new Account();
-                return singleton;
+                if (instance == null) instance = new Account();
+                return instance;
             }
-            private set { singleton = value; }
+            private set { instance = value; }
         }
         private Account()
         {
-
+            // khởi tạo hàm mặc định
         }
         public bool login(string username, string password)
         {
             string query = "SELECT * FROM Account WHERE Username = @Username AND Password = @Password";
 
-            DataTable kt = DataProvider.Singleton.ExeCuteQuery(query, new object[] { username, password });
+            DataTable kt = DataProvider.Instance.ExeCuteQuery(query, new object[] { username, password });
 
             return kt.Rows.Count > 0;
         }
