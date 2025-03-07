@@ -9,24 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace QuanLyQuanAn1
-{  
-   
-    public partial class frmthucan : Form
+{
+    public partial class frmdangky : Form
     {
-        
-        public frmthucan()
+        public frmdangky()
         {
             InitializeComponent();
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void frmthucan_Load(object sender, EventArgs e)
-        {
-           
         }
     }
 }
