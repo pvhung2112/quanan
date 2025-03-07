@@ -47,3 +47,20 @@ E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompi
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
 E:\winform\New folder (2)\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
