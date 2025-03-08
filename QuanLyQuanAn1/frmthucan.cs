@@ -14,6 +14,7 @@ namespace QuanLyQuanAn1
     public partial class frmthucan : Form
     {
         ketnoi db = new ketnoi();
+       
         public frmthucan()
         {
             InitializeComponent();
@@ -53,10 +54,7 @@ namespace QuanLyQuanAn1
             dataviewthucdon.Columns[0].Visible = false;
             dataviewthucdon.Columns[2].Visible = false;
             dataviewthucdon.Columns[4].Visible = false;
-            DataTable ds = db.dsquanan("select * from FoodCetagory ");
-            cbtimfood.DataSource = ds;
-            cbtimfood.DisplayMember = "name";
-            cbtimfood.ValueMember = "id";
+          
         }
 
         private void cbdanhmuc_SelectedIndexChanged(object sender, EventArgs e)
@@ -124,6 +122,47 @@ namespace QuanLyQuanAn1
             DataTable dt = db.dsquanan("select * from Food,FoodCetagory where Food.idCategory = FoodCetagory.id and FoodCetagory.name = N'" + cbtimfood.Text + "'");
             dataviewthucdon.DataSource = dt;
      
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            if (button1.Tag == null)
+            {
+                button1.Tag = button1.BackColor;
+            }
+            button1.BackColor = Color.LawnGreen;
+        }
+
+        private void button1_Leave(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+        }
+
+        private void button1_MouseEnter_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void doimau(object sender, EventArgs e)
+        {
+            Button bt = (Button)sender;
+            if (bt != btdong)
+            {
+                bt.BackColor = Color.LightGreen;
+            }
+            else bt.BackColor = Color.Red;
+        }
+
+        private void roimau(object sender, EventArgs e)
+        {
+            Button bt = (Button)sender;
+                bt.BackColor = Color.White;
+            
+
         }
     }
 }
