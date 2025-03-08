@@ -238,6 +238,7 @@
             this.btndangky.TabIndex = 0;
             this.btndangky.Text = "Đăng ký";
             this.btndangky.UseVisualStyleBackColor = true;
+            this.btndangky.Click += new System.EventHandler(this.btndangky_Click);
             // 
             // frmdangky
             // 

@@ -346,7 +346,7 @@
             // 
             this.cbdanhmuc.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.cbdanhmuc.FormattingEnabled = true;
-            this.cbdanhmuc.Location = new System.Drawing.Point(152, 227);
+            this.cbdanhmuc.Location = new System.Drawing.Point(152, 238);
             this.cbdanhmuc.Name = "cbdanhmuc";
             this.cbdanhmuc.Size = new System.Drawing.Size(266, 45);
             this.cbdanhmuc.TabIndex = 7;
