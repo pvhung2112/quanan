@@ -35,13 +35,13 @@
             this.txtdangnhap = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.lvbltenhienthi = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txthienthi = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.lblmatkhau = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtmatkhau = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.lblloai = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtloai = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
             this.btndangky = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -128,7 +128,7 @@
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 1.139601F));
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel5.Controls.Add(this.lvbltenhienthi, 1, 0);
-            this.tableLayoutPanel5.Controls.Add(this.textBox2, 2, 0);
+            this.tableLayoutPanel5.Controls.Add(this.txthienthi, 2, 0);
             this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 108);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 1;
@@ -146,13 +146,13 @@
             this.lvbltenhienthi.TabIndex = 0;
             this.lvbltenhienthi.Text = "Tên hiển thị:";
             // 
-            // textBox2
+            // txthienthi
             // 
-            this.textBox2.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox2.Location = new System.Drawing.Point(256, 17);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(251, 22);
-            this.textBox2.TabIndex = 1;
+            this.txthienthi.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txthienthi.Location = new System.Drawing.Point(256, 17);
+            this.txthienthi.Name = "txthienthi";
+            this.txthienthi.Size = new System.Drawing.Size(251, 22);
+            this.txthienthi.TabIndex = 1;
             // 
             // tableLayoutPanel4
             // 
@@ -163,7 +163,7 @@
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 1.139601F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel4.Controls.Add(this.lblmatkhau, 1, 0);
-            this.tableLayoutPanel4.Controls.Add(this.textBox3, 2, 0);
+            this.tableLayoutPanel4.Controls.Add(this.txtmatkhau, 2, 0);
             this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 170);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 1;
@@ -181,13 +181,13 @@
             this.lblmatkhau.TabIndex = 0;
             this.lblmatkhau.Text = "Mật khẩu:";
             // 
-            // textBox3
+            // txtmatkhau
             // 
-            this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox3.Location = new System.Drawing.Point(256, 16);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(251, 22);
-            this.textBox3.TabIndex = 1;
+            this.txtmatkhau.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtmatkhau.Location = new System.Drawing.Point(256, 16);
+            this.txtmatkhau.Name = "txtmatkhau";
+            this.txtmatkhau.Size = new System.Drawing.Size(251, 22);
+            this.txtmatkhau.TabIndex = 1;
             // 
             // tableLayoutPanel3
             // 
@@ -198,7 +198,7 @@
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 1.282051F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel3.Controls.Add(this.lblloai, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.textBox4, 2, 0);
+            this.tableLayoutPanel3.Controls.Add(this.txtloai, 2, 0);
             this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 231);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
@@ -216,13 +216,13 @@
             this.lblloai.TabIndex = 0;
             this.lblloai.Text = "Loại:";
             // 
-            // textBox4
+            // txtloai
             // 
-            this.textBox4.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox4.Location = new System.Drawing.Point(256, 14);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(251, 22);
-            this.textBox4.TabIndex = 1;
+            this.txtloai.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtloai.Location = new System.Drawing.Point(256, 14);
+            this.txtloai.Name = "txtloai";
+            this.txtloai.Size = new System.Drawing.Size(251, 22);
+            this.txtloai.TabIndex = 1;
             // 
             // tableLayoutPanel6
             // 
@@ -249,6 +249,7 @@
             this.btndangky.TabIndex = 0;
             this.btndangky.Text = "Đăng ký";
             this.btndangky.UseVisualStyleBackColor = true;
+            this.btndangky.Click += new System.EventHandler(this.btndangky_Click);
             // 
             // frmdangky
             // 
@@ -284,13 +285,13 @@
         private System.Windows.Forms.TextBox txtdangnhap;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
         private System.Windows.Forms.Label lvbltenhienthi;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txthienthi;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
         private System.Windows.Forms.Label lblmatkhau;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtmatkhau;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.Label lblloai;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtloai;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
         private System.Windows.Forms.Button btndangky;
     }

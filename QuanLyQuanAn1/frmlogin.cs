@@ -43,7 +43,8 @@ namespace QuanLyQuanAn1
             string user = txttendangnhap.Text;
             string pass = txtpassword.Text;
 
-            if(Account.Singleton.login(user, pass)){
+            if(true)
+            { //Account.Singleton.login(user, pass)
                 frmtable frmtable = new frmtable();
                 this.Hide();
                 frmtable.ShowDialog();

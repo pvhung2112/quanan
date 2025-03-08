@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QuanLyQuanAn\\quanan\\",
+  "WorkspaceRootPath": "D:\\QuanLy\\quanan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuanLyQuanAn\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuanLy\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyQuanAn1\\DAO\\DataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\QuanLyQuanAn\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs",
+              "DocumentMoniker": "D:\\QuanLy\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\DAO\\DataProvider.cs",
-              "ToolTip": "D:\\QuanLyQuanAn\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\QuanLy\\quanan\\QuanLyQuanAn1\\DAO\\DataProvider.cs",
               "RelativeToolTip": "QuanLyQuanAn1\\DAO\\DataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
