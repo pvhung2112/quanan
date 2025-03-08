@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,6 +82,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmthucan.cs",
+              "DocumentMoniker": "E:\\winform\\bai\\QuanLyQuanAn1\\frmthucan.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
+              "ToolTip": "E:\\winform\\bai\\QuanLyQuanAn1\\frmthucan.cs",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAWwBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:25:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmtable.cs [Design]",
               "DocumentMoniker": "E:\\winform\\bai\\QuanLyQuanAn1\\frmtable.cs",
@@ -89,8 +102,7 @@
               "ToolTip": "E:\\winform\\bai\\QuanLyQuanAn1\\frmtable.cs [Design]",
               "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:24:48.27Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-06T04:24:48.27Z"
             },
             {
               "$type": "Document",
@@ -102,8 +114,7 @@
               "RelativeToolTip": "QuanLyQuanAn1\\ketnoi.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwC8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:40:05.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T04:40:05.11Z"
             },
             {
               "$type": "Document",
@@ -115,8 +126,7 @@
               "RelativeToolTip": "QuanLyQuanAn1\\xuathoadon.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAD4vxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T06:26:08.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T06:26:08.923Z"
             },
             {
               "$type": "Document",
@@ -128,8 +138,7 @@
               "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAWwFAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:24:50.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T04:24:50.288Z"
             },
             {
               "$type": "Document",
@@ -152,25 +161,7 @@
               "ToolTip": "E:\\winform\\bai\\QuanLyQuanAn1\\frmthucan.cs [Design]",
               "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:51:05.1Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmthucan.cs",
-              "DocumentMoniker": "E:\\winform\\bai\\QuanLyQuanAn1\\frmthucan.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
-              "ToolTip": "E:\\winform\\bai\\QuanLyQuanAn1\\frmthucan.cs",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAWwBwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:25:19.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "WhenOpened": "2025-03-07T03:51:05.1Z"
             },
             {
               "$type": "Document",
@@ -181,8 +172,7 @@
               "ToolTip": "E:\\winform\\bai\\QuanLyQuanAn1\\xuathoadon.cs [Design]",
               "RelativeToolTip": "QuanLyQuanAn1\\xuathoadon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T06:04:32.783Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-07T06:04:32.783Z"
             },
             {
               "$type": "Document",
