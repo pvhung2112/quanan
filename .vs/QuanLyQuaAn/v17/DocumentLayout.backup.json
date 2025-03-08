@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\winform\\New folder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|e:\\winform\\new folder\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|e:\\winform\\new folder\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|E:\\winform\\New folder\\quanlyquanan1\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -87,27 +87,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmthucan.cs",
+              "Title": "frmthucan.cs [Design]",
               "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
-              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAhAAAAAAAAAA==",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs [Design]*",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:25:19.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:51:05.1Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmthucan.cs [Design]",
+              "Title": "frmthucan.cs",
               "DocumentMoniker": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs",
               "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
-              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs [Design]",
-              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs [Design]",
+              "ToolTip": "E:\\winform\\New folder\\QuanLyQuanAn1\\frmthucan.cs*",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:51:05.1Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-07T04:25:19.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
