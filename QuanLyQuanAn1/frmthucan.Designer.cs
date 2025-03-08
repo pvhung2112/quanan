@@ -49,7 +49,7 @@
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.button2 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btdong = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -104,8 +104,8 @@
             // 
             this.tableLayoutPanel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 22.64574F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 77.35426F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 39.90148F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60.09852F));
             this.tableLayoutPanel2.Controls.Add(this.lbtim, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.cbtimfood, 1, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -122,9 +122,9 @@
             this.lbtim.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.lbtim.Location = new System.Drawing.Point(3, 15);
             this.lbtim.Name = "lbtim";
-            this.lbtim.Size = new System.Drawing.Size(131, 60);
+            this.lbtim.Size = new System.Drawing.Size(237, 60);
             this.lbtim.TabIndex = 0;
-            this.lbtim.Text = "tìm kiếm";
+            this.lbtim.Text = "tất cả thực đơn";
             this.lbtim.UseVisualStyleBackColor = true;
             this.lbtim.Click += new System.EventHandler(this.lbtim_Click);
             // 
@@ -132,11 +132,11 @@
             // 
             this.cbtimfood.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.cbtimfood.FormattingEnabled = true;
-            this.cbtimfood.Location = new System.Drawing.Point(140, 33);
+            this.cbtimfood.Location = new System.Drawing.Point(246, 33);
             this.cbtimfood.Name = "cbtimfood";
-            this.cbtimfood.Size = new System.Drawing.Size(466, 24);
+            this.cbtimfood.Size = new System.Drawing.Size(360, 24);
             this.cbtimfood.TabIndex = 1;
-            this.cbtimfood.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.cbtimfood.SelectedIndexChanged += new System.EventHandler(this.cbtimfood_SelectedIndexChanged);
             // 
             // grthucdon
             // 
@@ -297,7 +297,7 @@
             // 
             this.cbdanhmuc.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.cbdanhmuc.FormattingEnabled = true;
-            this.cbdanhmuc.Location = new System.Drawing.Point(94, 300);
+            this.cbdanhmuc.Location = new System.Drawing.Point(94, 292);
             this.cbdanhmuc.Name = "cbdanhmuc";
             this.cbdanhmuc.Size = new System.Drawing.Size(321, 39);
             this.cbdanhmuc.TabIndex = 7;
@@ -329,7 +329,7 @@
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.65385F));
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.58654F));
             this.tableLayoutPanel5.Controls.Add(this.button2, 2, 0);
-            this.tableLayoutPanel5.Controls.Add(this.button4, 2, 1);
+            this.tableLayoutPanel5.Controls.Add(this.btdong, 2, 1);
             this.tableLayoutPanel5.Controls.Add(this.button3, 1, 1);
             this.tableLayoutPanel5.Controls.Add(this.button1, 1, 0);
             this.tableLayoutPanel5.Location = new System.Drawing.Point(6, 34);
@@ -350,17 +350,19 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Sửa";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button4
+            // btdong
             // 
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(227, 61);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(146, 53);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Đóng";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btdong.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btdong.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btdong.Location = new System.Drawing.Point(227, 61);
+            this.btdong.Name = "btdong";
+            this.btdong.Size = new System.Drawing.Size(146, 53);
+            this.btdong.TabIndex = 3;
+            this.btdong.Text = "Đóng";
+            this.btdong.UseVisualStyleBackColor = true;
+            this.btdong.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -372,6 +374,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "Xóa";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button1
             // 
@@ -432,7 +435,7 @@
         private System.Windows.Forms.TextBox tbgia;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btdong;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ComboBox cbtimfood;
