@@ -10,23 +10,23 @@ namespace QuanLyQuanAn1.DAO
 {
     internal class DataProvider
     {
-        private static DataProvider instance;
-       
+        private static DataProvider singleton;
 
-        internal static DataProvider Instance
+
+        internal static DataProvider Singleton
         {
 
             get
             {
-                if(instance == null) instance = new DataProvider();
-                return instance;
+                if (singleton == null) singleton = new DataProvider();
+                return singleton;
             }
-           private set => instance = value; 
+            private set => singleton = value;
         }
         private DataProvider() { }
         DataTable datatable = new DataTable();
         private string connectionString = "Data Source=DESKTOP-7BJS2JF\\SQLEXPRESS;Initial Catalog=QuanLyQuanAn;Integrated Security=True";
-        public DataTable ExeCuteQuery(string query , object[] parameter = null)
+        public DataTable ExeCuteQuery(string query, object[] parameter = null)
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -35,15 +35,15 @@ namespace QuanLyQuanAn1.DAO
                 SqlCommand cmd = new SqlCommand(query, connection);
 
                 //cmd.Parameters.AddWithValue("@username" , id);
-                if(parameter != null )
+                if (parameter != null)
                 {
                     int i = 0;
                     string[] lst = query.Split(' ');
-                    foreach (var s in lst )
+                    foreach (var s in lst)
                     {
                         if (s.Contains('@')) // cos chuwa parameter
                         {
-                            cmd.Parameters.AddWithValue(s , parameter[i]);
+                            cmd.Parameters.AddWithValue(s, parameter[i]);
                             i++;
                         }
                     }
@@ -53,16 +53,15 @@ namespace QuanLyQuanAn1.DAO
                 adapter.Fill(datatable);
                 connection.Close();
             }
-           return datatable;
+            return datatable;
         }
 
         public int ExeCuteNon(string query, object[] parameter = null)
         {
             int data = 0;// trả  ra số dòng thành công
-            // dùng cho insert , update , xóa
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                
+
                 connection.Open();
                 //string query = "select *from Account";
                 SqlCommand cmd = new SqlCommand(query, connection);
@@ -82,7 +81,7 @@ namespace QuanLyQuanAn1.DAO
                     }
                 }
                 data = cmd.ExecuteNonQuery();
-                
+
                 connection.Close();
             }
             return data;
