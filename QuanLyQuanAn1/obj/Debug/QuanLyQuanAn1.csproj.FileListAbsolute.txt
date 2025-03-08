@@ -64,3 +64,20 @@ E:\winform\New folder\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResou
 E:\winform\New folder\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 E:\winform\New folder\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\New folder\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+E:\winform\bai\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+E:\winform\bai\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+E:\winform\bai\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+E:\winform\bai\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb

@@ -32,7 +32,7 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.lbtim = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cbtimfood = new System.Windows.Forms.ComboBox();
             this.grthucdon = new System.Windows.Forms.GroupBox();
             this.dataviewthucdon = new System.Windows.Forms.DataGridView();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
@@ -107,7 +107,7 @@
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 22.64574F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 77.35426F));
             this.tableLayoutPanel2.Controls.Add(this.lbtim, 0, 0);
-            this.tableLayoutPanel2.Controls.Add(this.comboBox1, 1, 0);
+            this.tableLayoutPanel2.Controls.Add(this.cbtimfood, 1, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 3);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -126,15 +126,17 @@
             this.lbtim.TabIndex = 0;
             this.lbtim.Text = "tìm kiếm";
             this.lbtim.UseVisualStyleBackColor = true;
+            this.lbtim.Click += new System.EventHandler(this.lbtim_Click);
             // 
-            // comboBox1
+            // cbtimfood
             // 
-            this.comboBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(140, 33);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(466, 24);
-            this.comboBox1.TabIndex = 1;
+            this.cbtimfood.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.cbtimfood.FormattingEnabled = true;
+            this.cbtimfood.Location = new System.Drawing.Point(140, 33);
+            this.cbtimfood.Name = "cbtimfood";
+            this.cbtimfood.Size = new System.Drawing.Size(466, 24);
+            this.cbtimfood.TabIndex = 1;
+            this.cbtimfood.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // grthucdon
             // 
@@ -162,6 +164,7 @@
             this.dataviewthucdon.RowTemplate.Height = 24;
             this.dataviewthucdon.Size = new System.Drawing.Size(603, 422);
             this.dataviewthucdon.TabIndex = 0;
+            this.dataviewthucdon.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataviewthucdon_CellClick);
             // 
             // tableLayoutPanel3
             // 
@@ -275,6 +278,7 @@
             // tbid
             // 
             this.tbid.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbid.Enabled = false;
             this.tbid.Location = new System.Drawing.Point(94, 25);
             this.tbid.Name = "tbid";
             this.tbid.Size = new System.Drawing.Size(321, 38);
@@ -297,6 +301,7 @@
             this.cbdanhmuc.Name = "cbdanhmuc";
             this.cbdanhmuc.Size = new System.Drawing.Size(321, 39);
             this.cbdanhmuc.TabIndex = 7;
+            this.cbdanhmuc.SelectedIndexChanged += new System.EventHandler(this.cbdanhmuc_SelectedIndexChanged);
             // 
             // groupBox3
             // 
@@ -378,6 +383,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Thêm";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmthucan
             // 
@@ -429,7 +435,7 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cbtimfood;
         private System.Windows.Forms.Button lbtim;
         private System.Windows.Forms.ComboBox cbdanhmuc;
         private System.Windows.Forms.DataGridView dataviewthucdon;
