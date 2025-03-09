@@ -98,6 +98,7 @@ E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cac
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+<<<<<<< HEAD
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
@@ -116,3 +117,23 @@ D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanA
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 D:\LapTringWinDown\Projects\QuanLyQuanAnHung\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+=======
+D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdangky.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
+>>>>>>> quyduong
