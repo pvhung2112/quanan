@@ -164,7 +164,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(269, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(220, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -178,34 +178,34 @@
             this.tàiKhoảnToolStripMenuItem});
             this.openToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(83, 24);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
             this.openToolStripMenuItem.Text = "Lựa chọn";
             // 
             // adminToolStripMenuItem
             // 
             this.adminToolStripMenuItem.Name = "adminToolStripMenuItem";
-            this.adminToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.adminToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.adminToolStripMenuItem.Text = "Doanh thu";
             this.adminToolStripMenuItem.Click += new System.EventHandler(this.adminToolStripMenuItem_Click);
             // 
             // thứcĂnToolStripMenuItem
             // 
             this.thứcĂnToolStripMenuItem.Name = "thứcĂnToolStripMenuItem";
-            this.thứcĂnToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.thứcĂnToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.thứcĂnToolStripMenuItem.Text = "Thực đơn";
             this.thứcĂnToolStripMenuItem.Click += new System.EventHandler(this.thứcĂnToolStripMenuItem_Click);
             // 
             // doanhMụcToolStripMenuItem
             // 
             this.doanhMụcToolStripMenuItem.Name = "doanhMụcToolStripMenuItem";
-            this.doanhMụcToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.doanhMụcToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.doanhMụcToolStripMenuItem.Text = "Doanh mục";
             this.doanhMụcToolStripMenuItem.Click += new System.EventHandler(this.doanhMụcToolStripMenuItem_Click);
             // 
             // tàiKhoảnToolStripMenuItem
             // 
             this.tàiKhoảnToolStripMenuItem.Name = "tàiKhoảnToolStripMenuItem";
-            this.tàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.tàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.tàiKhoảnToolStripMenuItem.Text = "Tài khoản";
             this.tàiKhoảnToolStripMenuItem.Click += new System.EventHandler(this.tàiKhoảnToolStripMenuItem_Click);
             // 
@@ -213,7 +213,7 @@
             // 
             this.thôngTinToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.thôngTinToolStripMenuItem.Name = "thôngTinToolStripMenuItem";
-            this.thôngTinToolStripMenuItem.Size = new System.Drawing.Size(86, 24);
+            this.thôngTinToolStripMenuItem.Size = new System.Drawing.Size(70, 20);
             this.thôngTinToolStripMenuItem.Text = "Thông tin";
             this.thôngTinToolStripMenuItem.Click += new System.EventHandler(this.thôngTinToolStripMenuItem_Click);
             // 
@@ -221,7 +221,7 @@
             // 
             this.đăngXuấtToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(91, 24);
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
             this.đăngXuấtToolStripMenuItem.Text = "Đăng xuất";
             this.đăngXuấtToolStripMenuItem.Click += new System.EventHandler(this.đăngXuấtToolStripMenuItem_Click);
             // 
@@ -240,7 +240,7 @@
             this.label1.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(191, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(193, 32);
+            this.label1.Size = new System.Drawing.Size(152, 25);
             this.label1.TabIndex = 3;
             this.label1.Text = "Danh sách bàn";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -326,7 +326,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.mudgiamgia.Location = new System.Drawing.Point(3, 50);
             this.mudgiamgia.Name = "mudgiamgia";
-            this.mudgiamgia.Size = new System.Drawing.Size(120, 25);
+            this.mudgiamgia.Size = new System.Drawing.Size(120, 21);
             this.mudgiamgia.TabIndex = 2;
             this.mudgiamgia.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -369,7 +369,7 @@
             this.cmbdoiban.FormattingEnabled = true;
             this.cmbdoiban.Location = new System.Drawing.Point(3, 51);
             this.cmbdoiban.Name = "cmbdoiban";
-            this.cmbdoiban.Size = new System.Drawing.Size(120, 25);
+            this.cmbdoiban.Size = new System.Drawing.Size(120, 20);
             this.cmbdoiban.TabIndex = 4;
             this.cmbdoiban.UseWaitCursor = true;
             // 
@@ -461,7 +461,7 @@
             "dfddfgdfgdfg"});
             this.cmbmon.Location = new System.Drawing.Point(0, 3);
             this.cmbmon.Name = "cmbmon";
-            this.cmbmon.Size = new System.Drawing.Size(160, 25);
+            this.cmbmon.Size = new System.Drawing.Size(160, 20);
             this.cmbmon.TabIndex = 3;
             this.cmbmon.SelectedIndexChanged += new System.EventHandler(this.cmbmon_SelectedIndexChanged);
             // 
@@ -484,7 +484,7 @@
             this.lblloai.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblloai.Location = new System.Drawing.Point(7, 3);
             this.lblloai.Name = "lblloai";
-            this.lblloai.Size = new System.Drawing.Size(62, 32);
+            this.lblloai.Size = new System.Drawing.Size(51, 25);
             this.lblloai.TabIndex = 0;
             this.lblloai.Text = "Loại:";
             // 
@@ -517,7 +517,7 @@
             this.lblmon.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblmon.Location = new System.Drawing.Point(3, 6);
             this.lblmon.Name = "lblmon";
-            this.lblmon.Size = new System.Drawing.Size(69, 32);
+            this.lblmon.Size = new System.Drawing.Size(55, 25);
             this.lblmon.TabIndex = 1;
             this.lblmon.Text = "Món:";
             // 
@@ -538,7 +538,7 @@
             this.cmbloai.FormattingEnabled = true;
             this.cmbloai.Location = new System.Drawing.Point(0, 11);
             this.cmbloai.Name = "cmbloai";
-            this.cmbloai.Size = new System.Drawing.Size(157, 25);
+            this.cmbloai.Size = new System.Drawing.Size(157, 20);
             this.cmbloai.TabIndex = 2;
             // 
             // tableLayoutPanel6
@@ -602,7 +602,7 @@
             0,
             0});
             this.mudsoluong.Name = "mudsoluong";
-            this.mudsoluong.Size = new System.Drawing.Size(47, 25);
+            this.mudsoluong.Size = new System.Drawing.Size(47, 21);
             this.mudsoluong.TabIndex = 5;
             this.mudsoluong.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.mudsoluong.Value = new decimal(new int[] {
@@ -613,7 +613,7 @@
             // 
             // frmtable
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(958, 464);
             this.Controls.Add(this.splitContainer1);
