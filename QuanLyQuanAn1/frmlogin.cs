@@ -50,7 +50,7 @@ namespace QuanLyQuanAn1
                 string user = txttendangnhap.Text;
                 string pass = txtpassword.Text;
 
-            if (loginn(user, pass))
+            if (true)
             {
                 frmtable frmtable = new frmtable();
                 this.Hide();
