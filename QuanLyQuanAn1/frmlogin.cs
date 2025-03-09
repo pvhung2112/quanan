@@ -35,6 +35,8 @@ namespace QuanLyQuanAn1
                 );
             if (kt == DialogResult.No) e.Cancel = true;
         }
+
+
         public bool loginn(string username, string password)
         {
             string query = "SELECT * FROM Account WHERE Username = @Username AND Password = @Password";
@@ -47,22 +49,27 @@ namespace QuanLyQuanAn1
 
         private void btndangnhap_Click(object sender, EventArgs e)
         {
-                string user = txttendangnhap.Text;
-                string pass = txtpassword.Text;
+            //    string user = txttendangnhap.Text;
+            //    string pass = txtpassword.Text;
 
-            if (true)
-            {
-                frmtable frmtable = new frmtable();
-                this.Hide();
-                frmtable.ShowDialog();
-                this.Show();
-            }
-            else
-            {
-                MessageBox.Show("tài khoản hoặc mật khẩu không hợp lệ");
-            }
-           
-        
+            //if (true)
+            //{
+            //    frmtable frmtable = new frmtable();
+            //    this.Hide();
+            //    frmtable.ShowDialog();
+            //    this.Show();
+            //}
+            //else
+            //{
+            //    MessageBox.Show("tài khoản hoặc mật khẩu không hợp lệ");
+            //}
+
+            frmtable frmtable = new frmtable();
+            this.Hide();
+            frmtable.ShowDialog();
+            this.Show();
+
+
         }
 
         private void frmlogin_Load(object sender, EventArgs e)

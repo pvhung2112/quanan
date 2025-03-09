@@ -28,6 +28,8 @@ namespace QuanLyQuanAn1
             string loai = (txtloai.Text);
             bool check = true;
             int loaii;
+
+
             if(tendangnhap == "")
             {
                 errorProvider1.SetError(txtdangnhap, "Mời bạn nhập tên đăng nhập");
@@ -95,6 +97,26 @@ namespace QuanLyQuanAn1
         }
 
         private void tableLayoutPanel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmdangky_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txthienthi_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel7_Paint(object sender, PaintEventArgs e)
         {
 
         }
