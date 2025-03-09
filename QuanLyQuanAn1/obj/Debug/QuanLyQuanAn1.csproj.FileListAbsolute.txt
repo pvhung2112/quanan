@@ -98,7 +98,7 @@ E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cac
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\moi\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
-<<<<<<< HEAD
+
 D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
 D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
 D:\QuanLy\quanan\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
@@ -117,7 +117,7 @@ D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.c
 D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 D:\QuanLy\quanan\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
-=======
+
 E:\winform\lanba\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
 E:\winform\lanba\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
 E:\winform\lanba\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
@@ -136,4 +136,22 @@ E:\winform\lanba\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.c
 E:\winform\lanba\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
 E:\winform\lanba\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
 E:\winform\lanba\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
->>>>>>> 691c73caf22776e112a4d3e7c9eb42ca3aed65a9
+
+E:\winform\six\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe.config
+E:\winform\six\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.exe
+E:\winform\six\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn1.pdb
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.AssemblyReference.cache
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmaccount.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdangky.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdanhmuc.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmdoanhthu.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmlogin.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtable.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmtaikhoan.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.frmthucan.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.Properties.Resources.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.xuathoadon.resources
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.GenerateResource.cache
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.csproj.CoreCompileInputs.cache
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.exe
+E:\winform\six\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn1.pdb
