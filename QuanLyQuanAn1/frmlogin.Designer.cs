@@ -39,6 +39,7 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.txtpassword = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnthemtaikhoan = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -47,6 +48,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Transparent;
+            this.panel1.Controls.Add(this.btnthemtaikhoan);
             this.panel1.Controls.Add(this.btnthoat);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.btndangnhap);
@@ -61,7 +63,7 @@
             // 
             this.btnthoat.AutoSize = true;
             this.btnthoat.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnthoat.Location = new System.Drawing.Point(325, 169);
+            this.btnthoat.Location = new System.Drawing.Point(256, 169);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(75, 29);
             this.btnthoat.TabIndex = 3;
@@ -81,7 +83,7 @@
             // btndangnhap
             // 
             this.btndangnhap.AutoSize = true;
-            this.btndangnhap.Location = new System.Drawing.Point(184, 169);
+            this.btndangnhap.Location = new System.Drawing.Point(161, 169);
             this.btndangnhap.Name = "btndangnhap";
             this.btndangnhap.Size = new System.Drawing.Size(89, 29);
             this.btndangnhap.TabIndex = 2;
@@ -145,6 +147,16 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "PassWord:";
             // 
+            // btnthemtaikhoan
+            // 
+            this.btnthemtaikhoan.Location = new System.Drawing.Point(337, 169);
+            this.btnthemtaikhoan.Name = "btnthemtaikhoan";
+            this.btnthemtaikhoan.Size = new System.Drawing.Size(128, 29);
+            this.btnthemtaikhoan.TabIndex = 4;
+            this.btnthemtaikhoan.Text = "Thêm tài khoản";
+            this.btnthemtaikhoan.UseVisualStyleBackColor = true;
+            this.btnthemtaikhoan.Click += new System.EventHandler(this.btndangky_Click);
+            // 
             // frmlogin
             // 
             this.AcceptButton = this.btndangnhap;
@@ -187,6 +199,7 @@
         private System.Windows.Forms.Button btnthoat;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btndangnhap;
+        private System.Windows.Forms.Button btnthemtaikhoan;
     }
 }
 

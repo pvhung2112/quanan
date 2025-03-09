@@ -389,7 +389,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnthem.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnthem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnthem.Location = new System.Drawing.Point(24, 11);
+            this.btnthem.Location = new System.Drawing.Point(3, 6);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(84, 59);
             this.btnthem.TabIndex = 4;
@@ -595,7 +595,7 @@
             this.mudsoluong.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.mudsoluong.Location = new System.Drawing.Point(0, 26);
+            this.mudsoluong.Location = new System.Drawing.Point(1, 31);
             this.mudsoluong.Minimum = new decimal(new int[] {
             1,
             0,
