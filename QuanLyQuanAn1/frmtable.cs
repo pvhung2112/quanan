@@ -135,5 +135,10 @@ namespace QuanLyQuanAn1
         {
 
         }
+
+        private void splitContainer1_SplitterMoved(object sender, SplitterEventArgs e)
+        {
+
+        }
     }
 }

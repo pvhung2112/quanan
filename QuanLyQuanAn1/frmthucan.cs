@@ -161,8 +161,6 @@ namespace QuanLyQuanAn1
         {
             Button bt = (Button)sender;
                 bt.BackColor = Color.White;
-            
-
         }
     }
 }

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTringWinDown\\Projects\\quanan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|d:\\laptringwindown\\projects\\quanan\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|D:\\LapTringWinDown\\Projects\\quanan\\quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|D:\\LapTringWinDown\\Projects\\quanan\\quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmthucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|D:\\LapTringWinDown\\Projects\\quanan\\quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8DC3C-8472-4015-81C8-5143328BDD25}|QuanLyQuanAn1\\QuanLyQuanAn1.csproj|solutionrelative:quanlyquanan1\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 987,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmtable.cs",
+              "DocumentMoniker": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmtable.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmtable.cs",
+              "ToolTip": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmtable.cs",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:03:27.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmtable.cs [Design]",
+              "DocumentMoniker": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmtable.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmtable.cs",
+              "ToolTip": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmtable.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmtable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:01:23.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmaccount.cs [Design]",
+              "DocumentMoniker": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmaccount.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmaccount.cs",
+              "ToolTip": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmaccount.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmaccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:00:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmthucan.cs",
+              "DocumentMoniker": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmthucan.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn1\\frmthucan.cs",
+              "ToolTip": "D:\\LapTringWinDown\\Projects\\quanan\\QuanLyQuanAn1\\frmthucan.cs",
+              "RelativeToolTip": "QuanLyQuanAn1\\frmthucan.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:58:33.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
