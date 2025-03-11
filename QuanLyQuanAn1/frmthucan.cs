@@ -32,10 +32,10 @@ namespace QuanLyQuanAn1
             dataviewthucdon.Columns[0].Visible = false;
             dataviewthucdon.Columns[2].Visible = false;
             dataviewthucdon.Columns[4].Visible = false;
-            DataTable ds = db.dsquanan("select * from FoodCetagory ");
+            DataTable ds = db.dsquanan("select * from FoodCetagory ");//lay du lieuj cho cômbox
             cbtimfood.DataSource = ds;
-            cbtimfood.DisplayMember = "name";
-            cbtimfood.ValueMember = "id";
+            cbtimfood.DisplayMember = "name";// gia trị hien thi 
+            cbtimfood.ValueMember = "id";//gia tri thuc sư
             DataTable dss = db.dsquanan("select * from FoodCetagory ");
             cbdanhmuc.DataSource = dss;
             cbdanhmuc.DisplayMember = "name";

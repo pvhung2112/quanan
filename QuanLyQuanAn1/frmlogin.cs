@@ -50,17 +50,12 @@ namespace QuanLyQuanAn1
                 string user = txttendangnhap.Text;
                 string pass = txtpassword.Text;
 
-            if (loginn(user, pass))
-            {
+           
                 frmtable frmtable = new frmtable();
                 this.Hide();
                 frmtable.ShowDialog();
                 this.Show();
-            }
-            else
-            {
-                MessageBox.Show("tài khoản hoặc mật khẩu không hợp lệ");
-            }
+           
            
         
         }

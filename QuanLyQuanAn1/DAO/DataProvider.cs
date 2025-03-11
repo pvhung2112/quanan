@@ -24,7 +24,7 @@ namespace QuanLyQuanAn1.DAO
         }
         private DataProvider() { }
         DataTable datatable = new DataTable();
-        private string connectionString = "Data Source=DESKTOP-7BJS2JF\\SQLEXPRESS;Initial Catalog=QuanLyQuanAn;Integrated Security=True";
+        private string connectionString = "Data Source=LAPTOP-JOKOO9J7\\SQLEXPRESS;Initial Catalog=QuanLyQuanAn;Integrated Security=True;";
         public DataTable ExeCuteQuery(string query , object[] parameter = null)
         {
             using (SqlConnection connection = new SqlConnection(connectionString))

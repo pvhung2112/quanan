@@ -52,6 +52,7 @@
             this.btdong = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -160,6 +161,8 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dataviewthucdon.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataviewthucdon.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataviewthucdon.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1});
             this.dataviewthucdon.Location = new System.Drawing.Point(0, 47);
             this.dataviewthucdon.Name = "dataviewthucdon";
             this.dataviewthucdon.RowHeadersWidth = 51;
@@ -299,7 +302,7 @@
             // 
             this.cbdanhmuc.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.cbdanhmuc.FormattingEnabled = true;
-            this.cbdanhmuc.Location = new System.Drawing.Point(95, 300);
+            this.cbdanhmuc.Location = new System.Drawing.Point(95, 292);
             this.cbdanhmuc.Name = "cbdanhmuc";
             this.cbdanhmuc.Size = new System.Drawing.Size(255, 39);
             this.cbdanhmuc.TabIndex = 7;
@@ -399,6 +402,13 @@
             this.button1.MouseEnter += new System.EventHandler(this.doimau);
             this.button1.MouseLeave += new System.EventHandler(this.roimau);
             // 
+            // Column1
+            // 
+            this.Column1.DataPropertyName = "name";
+            this.Column1.HeaderText = "Tên";
+            this.Column1.MinimumWidth = 6;
+            this.Column1.Name = "Column1";
+            // 
             // frmthucan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -453,5 +463,6 @@
         private System.Windows.Forms.Button lbtim;
         private System.Windows.Forms.ComboBox cbdanhmuc;
         private System.Windows.Forms.DataGridView dataviewthucdon;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
     }
 }

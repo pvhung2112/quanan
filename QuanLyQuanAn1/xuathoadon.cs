@@ -26,5 +26,40 @@ namespace QuanLyQuanAn1
         {
 
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick_1(object sender, EventArgs e)
+        {
+       
+        }
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick_2(object sender, EventArgs e)
+        {
+          
+        }
     }
 }
